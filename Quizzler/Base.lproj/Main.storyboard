@@ -45,7 +45,7 @@
                                 <subviews>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Dsa-Z7-OdN">
                                         <rect key="frame" x="0.0" y="33" width="24" height="14"/>
-                                        <color key="backgroundColor" red="0.20702064140000001" green="0.82454192640000001" blue="0.47848044899999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <color key="backgroundColor" red="0.98837310075759888" green="0.75781071269416678" blue="0.3140155550007328" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="14" id="O8k-ES-fgz"/>
                                             <constraint firstAttribute="width" constant="24" id="iCP-9o-N7W"/>
@@ -138,7 +138,7 @@
                                 </constraints>
                             </view>
                         </subviews>
-                        <color key="backgroundColor" red="0.19376453757286072" green="0.50850099325180054" blue="0.85232251882553101" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="lYI-Ly-TJ0" firstAttribute="top" secondItem="Nrz-fI-Njc" secondAttribute="bottom" id="12X-NH-wA3"/>
                             <constraint firstItem="lYI-Ly-TJ0" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" id="6WV-1u-Wc1"/>
